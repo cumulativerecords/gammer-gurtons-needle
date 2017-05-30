@@ -1,0 +1,5 @@
+Look at the interaction graphs and how they are represented in the coefficients tables. You can get all the info from the interaction graph and corresponding information in the coefficients table.
+While visual depictions of interactions are helpful, they are not absolutely necessary.
+
+Interaction shows the change per one unit of focal predictor on the moderator variable.
+
